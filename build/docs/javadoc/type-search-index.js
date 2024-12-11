@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.defalut.app","l":"AppLauncher"},{"p":"io.defalut.app","l":"ExcelProcessor"},{"p":"io.defalut.app","l":"MyApp"}];updateSearchResults();
